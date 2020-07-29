@@ -32,7 +32,7 @@ public class FrmLogin extends javax.swing.JFrame {
         initComponents();
         setLocationRelativeTo(null);
         System.out.println("Xin chào anh Hiếu siêu đập trai");
-        System.out.println("Sửa chố này để pull từ git về");
+        System.out.println("Đoạn này là sửa trên git để Pull về máy");
         txtUser.setText("hieuvm");
         txtPassword.setText("hieuvm2000");
     }
