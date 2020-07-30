@@ -3,27 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/GUI/PalNhanVien.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/GUI/PalNguoiHoc.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/GUI/FrmCreateAcount.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/DAO/DAO_NguoiHoc.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/jdbcHelper/ShareHelper.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/DAO/DAO_HocVien.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/DAO/DAO_ChuyenDe.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/GUI/PalKhoaHoc.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/GUI/PalHocVien.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/DAO/DAO_ThongKe.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/DAO/DAO_KhoaHoc.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/GUI/PalThongKe.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/jdbcHelper/JdbcHelper.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/DAO/DAO_NhanVien.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/Model/NhanVien.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/Model/HocVien.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/GUI/FrmMain.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/GUI/FrmManHinhChao.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/GUI/PalChuyenDe.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/GUI/FrmLogin.java</file>
-            <file>file:/D:/Du%20an%20mau/DuAnMau/src/GUI/FrmHocVien.java</file>
+            <file>file:/E:/Du%20an%20mau/Du-an-mau/src/GUI/FrmLogin.java</file>
         </group>
     </open-files>
 </project-private>
