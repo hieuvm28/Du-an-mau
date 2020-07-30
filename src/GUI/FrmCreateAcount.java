@@ -24,6 +24,7 @@ public class FrmCreateAcount extends javax.swing.JFrame {
     public FrmCreateAcount() {
         initComponents();
         setLocationRelativeTo(null);
+        String name = "Vũ Minh Hiếu"
     }
 
     /**
