@@ -24,7 +24,7 @@ public class FrmCreateAcount extends javax.swing.JFrame {
     public FrmCreateAcount() {
         initComponents();
         setLocationRelativeTo(null);
-        
+        System.out.println("Hahahha");
     }
 
     /**
